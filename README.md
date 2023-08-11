@@ -5,5 +5,4 @@ Technologies i use:
 * Frameworks: .NET, Spring Boot(JPA/Hibernate)
 * Tools: Docker, Azure Cloud, GitHub Actions CI/CD
 * Databases: SQL, NoSQL
-* IaC: Pulumi
 * Styles: CSS, Tailwind CSS
